@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MovieBox/static/css/main.76a12d2b.chunk.css",
+    "main.js": "/MovieBox/static/js/main.57c00244.chunk.js",
+    "main.js.map": "/MovieBox/static/js/main.57c00244.chunk.js.map",
+    "runtime-main.js": "/MovieBox/static/js/runtime-main.e3e28cd1.js",
+    "runtime-main.js.map": "/MovieBox/static/js/runtime-main.e3e28cd1.js.map",
+    "static/js/2.d36cc2e6.chunk.js": "/MovieBox/static/js/2.d36cc2e6.chunk.js",
+    "static/js/2.d36cc2e6.chunk.js.map": "/MovieBox/static/js/2.d36cc2e6.chunk.js.map",
+    "index.html": "/MovieBox/index.html",
+    "static/css/main.76a12d2b.chunk.css.map": "/MovieBox/static/css/main.76a12d2b.chunk.css.map",
+    "static/js/2.d36cc2e6.chunk.js.LICENSE.txt": "/MovieBox/static/js/2.d36cc2e6.chunk.js.LICENSE.txt",
+    "static/media/mylogo.e7faccb9.png": "/MovieBox/static/media/mylogo.e7faccb9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3e28cd1.js",
+    "static/js/2.d36cc2e6.chunk.js",
+    "static/css/main.76a12d2b.chunk.css",
+    "static/js/main.57c00244.chunk.js"
+  ]
+}
